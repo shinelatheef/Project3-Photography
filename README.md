@@ -1,6 +1,6 @@
 # Photography Site
 
-![LIVE](https://shinelatheef.github.io/Project3-Photography/)
+[LIVE](https://shinelatheef.github.io/Project3-Photography/)
 
 ![ss1](./Images/Screenshot%20(78).png)
 ![ss1](./Images/Screenshot%20(79).png)
